@@ -1,0 +1,3 @@
+# lighthouse
+
+Hello, world.
